@@ -5,3 +5,6 @@ I am displaying a UIAlertController if I get an error from the loader. Even thou
 
 Even if I call endRefreshing() in several places, and I am confirming via print() statements that the refreshControl is in fact NOT refreshing anymore, it still shows as spinning and the tableview is still displaced and doesn't return to its place
 
+# Demo Video
+![Demo Video](https://github.com/mdoukmak/TableViewRefreshControlSample/blob/main/demo.gif?raw=true)
+
